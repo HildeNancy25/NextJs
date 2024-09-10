@@ -1,3 +1,8 @@
 export default function Second(){
-    return<h3 style={{padding:'2rem'}}>I am a second blog page</h3>
+    return<>
+    <div style={{padding:'2rem', display:'flex', flexDirection:'column'}}>
+        <h3>I am a second blog page</h3>
+        <p>Basically  will be displaying content about uplaoding receipts</p>
+    </div>
+        </>
 }

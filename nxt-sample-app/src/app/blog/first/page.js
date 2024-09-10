@@ -1,3 +1,3 @@
 export default function First(){
-    return<h3>I am a first blog page</h3>
+    return<h3 style={{padding:'2rem'}}>I am a first blog page</h3>
 }

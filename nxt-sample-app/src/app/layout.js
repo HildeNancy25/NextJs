@@ -7,14 +7,18 @@ export default function RootLayout({ children }) {
   return (
     <html lang="en">
       <body>
-        <header style={{background:'green', padding:'20px', textAlign:'center'}}>
-          <p>
-            Header
-          </p>
+        <header style={{background:'green', padding:'2rem', textAlign:'center'}}>
+        <div
+     style={{fontSize:'1rem'
+        }}>
+        <a style={{paddingRight:'1rem', color:'whitesmoke'}} href="/about">About</a>
+        <a style={{paddingRight:'1rem', color:'whitesmoke'}} href="/user">Users</a>
+        <a style={{color:'whitesmoke'}} href="/blog">Dashoard</a>
+    </div>
         </header>
         {children}
-        <footer style={{background:'green', padding:'20px', textAlign:'center'}}>
-          <p>Footer</p>
+        <footer style={{background:'green', padding:'20px', textAlign:'center', color:'white'}}>
+          <p>All rights reserved, Footer 2024</p>
         </footer>
       </body>
     </html>

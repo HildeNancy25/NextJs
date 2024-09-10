@@ -1,3 +1,3 @@
 export default function Second(){
-    return<h3>I am a second blog page</h3>
+    return<h3 style={{padding:'2rem'}}>I am a second blog page</h3>
 }

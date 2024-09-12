@@ -1,0 +1,22 @@
+{
+    "users": [
+        {
+            "id": 1,
+            "image":"TeslaLogo.png",
+            "names": "Loren ipsum",
+            "author": "IT"
+        },
+        {
+            "id": 2,
+            "image":"TeslaLogo.png",
+            "names": "Guten tag",
+            "author": "ASSISTANT"
+        },
+        {
+            "id": 3,
+            "image":"TeslaLogo.png",
+            "names": "Guten Morgen",
+            "author": "DIRECTOR"
+        }
+    ]
+}

@@ -13,7 +13,7 @@ export default function RootLayout({ children }) {
         }}>
         <a style={{paddingRight:'1rem', color:'whitesmoke'}} href="/">Home</a>
         <a style={{paddingRight:'1rem', color:'whitesmoke'}} href="/about">About</a>
-        <a style={{paddingRight:'1rem', color:'whitesmoke'}} href="/user">Users</a>
+        <a style={{paddingRight:'1rem', color:'whitesmoke'}} href="/user">Users</a> 
         <a style={{color:'whitesmoke'}} href="/blog">Dashoard</a>
     </div>
         </header>

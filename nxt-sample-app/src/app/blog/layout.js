@@ -13,7 +13,7 @@ const DashboardLayout = ({children}) => {
                         <span style={{display:'block', color:'black', fontWeight:'bold'}}>Home</span>
                         </Link>
                     </li>
-                    <li>
+                    <li b>
                         <Link href='/blog/first'>
                         <span style={{display:'block', color:'black', fontWeight:'bold'}}>Pusrchase request</span>
                         </Link>

@@ -32,7 +32,7 @@ export default function First() {
                 </TableHeader>
                 <TableBody>
                     <TableRow>
-                        <TableCell className="font-medium">INV001</TableCell>
+                        <TableCell className="font-medium">INV0001</TableCell>
                         <TableCell>Pending</TableCell>
                         <TableCell>Credit Card</TableCell>
                         <TableCell className="text-right">$250.00</TableCell>
